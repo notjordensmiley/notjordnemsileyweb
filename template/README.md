@@ -1,8 +1,1 @@
-### Simple Bio Template
-##### Author - Vinit Shahdeo
-
-This is a basic template for personal bio.
-
-It is for the people who have just started with web development and learnt basic HTML tags and little bit of CSS.
-
-Made for a hands on workshop conducted by me.
+Hey, there I'm jorden! And I'm a mod pack creator! I created the Modded MC Pack and THE Performance Pack!
